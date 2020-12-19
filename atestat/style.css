@@ -1,0 +1,284 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+.index
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(fundal2.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+ul
+{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+
+ul li
+{
+	display: inline-block;
+}
+
+ul li a
+{
+	text-decoration: none;
+	color: white;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+
+ul li a:hover
+{
+	background-color: white;
+	color: black;	
+}
+
+ul li.active a
+{
+	background-color: white;
+	color: black;
+}
+
+.logo img
+{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+
+.main
+{
+	max-width: 1250px;
+	margin: auto;
+
+}
+
+.title
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1
+{
+	color: white;
+	font-size: 70px;
+
+}
+
+.button
+{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.btn
+{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+
+.btn:hover
+{
+	background-color: white;
+	color: black;
+}
+
+ .galerie
+{
+	background-image: radial-gradient(rgba(120,120,120,0.2), rgba(120,120,120,1));
+}
+
+.title2
+{
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 9.5%;
+	transform: translate(-50%,-50%);
+}
+
+.title2 h1
+{
+	letter-spacing: 10px;
+}
+
+.galerie2 table
+{
+	display: inline-block;
+	position: absolute;
+	top: 35%;
+	left: 3.7%;
+}
+
+.galerie2 img
+{
+	width: 300px;
+	height: 400px;
+}
+
+.galerie2 p
+{
+	color: white;
+	font-family: Century Gothic;
+	letter-spacing: 6px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.title3
+{
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+}
+
+.title3 h1
+{
+	letter-spacing: 10px;
+}
+
+.contact
+{
+	position: absolute;
+	top: 40%;
+	left: 5%;
+	
+}
+
+.contact .table-text
+{
+	color: white;
+	letter-spacing: 2px;
+	text-align: left;
+}
+
+ .caseta
+{
+	text-align: center;
+}
+
+.contact .btn
+{
+	border: 1px solid white;
+	padding: 10px 30px;
+	color: white;
+	text-decoration: none;
+	transition: 0.6s ease;
+	font-family: Gothic Century;
+	background-color: transparent;
+}
+
+.contact .btn:hover
+{
+	background-color: white;
+	color: black;
+}
+
+.form-control
+{
+	width: 300px;
+}
+	
+.informatii
+{
+	color: black;
+	position: absolute;
+	top: 5%;
+	left: 120%;
+}	
+	
+.informatii .follow
+{
+	background-color: white;
+	padding: 8px;
+	margin: 15px;
+	width: 220px;
+}
+	
+.ingrediente 
+{
+	position: absolute;
+	top: 28%;
+	left: 0.5%;
+}
+
+.ingrediente h1
+{
+	letter-spacing: 7px;
+	color: white;
+}
+
+.ingrediente .tabl
+{
+	position: absolute;
+	top: 80%;
+	left: 10%;
+	color: white;
+	width: 1000px;
+	margin-bottom: 15;
+	font-weight: bold;
+}
+
+.ingrediente .tabl .td
+{
+	border-bottom: 1px solid white;	
+}
+
+.reteta
+{
+	text-align: center;
+}
+
+.istoric h1
+{
+	position: absolute;
+	top: 30%;
+	left: 3%;
+	letter-spacing: 10px;
+	color: white;
+}
+
+.istoric p
+{
+	color: black;
+	position: absolute;
+	top: 45%;
+	left: 3%;
+	font-family: Century Gothic;
+	margin-right: 15;
+	margin-bottom: 15;
+	text-indent: 100px;
+}
+
+.istoric .center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
+}
+
+span
+{
+	padding: 3px;
+	display: inline-block;
+}
