@@ -8,7 +8,8 @@ This is a website I created to obtain the Romanian Computer Science Certificate 
 [![ss-galery.jpg](https://i.postimg.cc/VvKXqWXy/ss-galery.jpg)](https://postimg.cc/QKWBs56S)
 [![ss-galery-2.jpg](https://i.postimg.cc/XYG95FJh/ss-galery-2.jpg)](https://postimg.cc/rDTdXD5C)
 [![ss-ingrediente.jpg](https://i.postimg.cc/Dw9LPZ4z/ss-ingrediente.jpg)](https://postimg.cc/pmBm2PZN)
-[![ss-contact.jpg](https://i.postimg.cc/sxHZQDRs/ss-contact.jpg)](https://postimg.cc/QK5MvDty)
+
+[![ss-contact.jpg](https://i.postimg.cc/bNTnhHJc/ss-contact.jpg)](https://postimg.cc/ykDxhRcv)
 
 <html>
 	<head>
