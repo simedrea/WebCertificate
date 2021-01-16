@@ -1,6 +1,15 @@
 # WebCertificate
 This is a website I created to obtain the Romanian Computer Science Certificate in 2020.
 
+[![ss-index.jpg](https://i.postimg.cc/8cQY8DYk/ss-index.jpg)](https://postimg.cc/DJ66LVFR)
+[![ss-history.jpg](https://i.postimg.cc/4ys1b3Mc/ss-history.jpg)](https://postimg.cc/7Gt7qqqP)
+[![ss-history-2.jpg](https://i.postimg.cc/0yb0CFtV/ss-history-2.jpg)](https://postimg.cc/k2PSJ1PS)
+[![ss-history-2.jpg](https://i.postimg.cc/0yb0CFtV/ss-history-2.jpg)](https://postimg.cc/k2PSJ1PS)
+[![ss-galery.jpg](https://i.postimg.cc/VvKXqWXy/ss-galery.jpg)](https://postimg.cc/QKWBs56S)
+[![ss-galery-2.jpg](https://i.postimg.cc/XYG95FJh/ss-galery-2.jpg)](https://postimg.cc/rDTdXD5C)
+[![ss-ingrediente.jpg](https://i.postimg.cc/Dw9LPZ4z/ss-ingrediente.jpg)](https://postimg.cc/pmBm2PZN)
+[![ss-contact.jpg](https://i.postimg.cc/sxHZQDRs/ss-contact.jpg)](https://postimg.cc/QK5MvDty)
+
 <html>
 	<head>
 		<title> Ciocolata </title>
